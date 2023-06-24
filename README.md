@@ -4,6 +4,6 @@ Programa que recebe um número N para gerar os N primeiros termos da série de F
 
 **Exemplo:**
 ```
-Entrada: 5
-Saída: 1, 1, 2, 3, 5, 8, 13, ...
+Entrada: 7
+Saída: 1, 1, 2, 3, 5, 8, 13
 ```
